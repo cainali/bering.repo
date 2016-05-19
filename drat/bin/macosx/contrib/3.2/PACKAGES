@@ -1,0 +1,24 @@
+Package: bering.d3
+Version: 0.0.2.0
+Depends: R (>= 3.2.2), gridSVG
+Imports: ggplot2, ggthemes, XML, jsonlite, data.table, reshape2,
+        gridExtra
+Suggests: knitr, rmarkdown
+MD5sum: 57d3ac25175c8f1f0c298362bb451957
+NeedsCompilation: no
+
+Package: bering.ml
+Version: 0.0.4.3
+Depends: R (>= 3.2.0)
+Imports: data.table, ranger
+License: Apache License (== 2.0)
+MD5sum: 09a969dc97dc20d2ac7e9d70aa90b833
+NeedsCompilation: no
+
+Package: bering.ui
+Version: 0.0.3.2
+Depends: R (>= 3.2.2), gridSVG
+Imports: bering.ml, bering.d3, jsonlite, rmongodb, mxnet
+MD5sum: 9288f00ba21a409abace6f423745ccbf
+NeedsCompilation: no
+
