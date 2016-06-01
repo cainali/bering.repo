@@ -8,10 +8,12 @@ if(!require("drat")) {
 
 
 # Call repo with drat packages 
-drat::addRepo("beringresearch")  ## or just addRepo
+drat::addRepo("beringresearch/r-cluster")  ## or just addRepo
 
 # install packages
-install.packages("bering.repo")     
+install.packages("bering.ml")     
+install.packages("bering.d3")
+install.packages("bering.ui")
 
 # update already installed packages
 update.packages()
