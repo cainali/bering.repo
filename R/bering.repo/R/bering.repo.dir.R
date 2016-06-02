@@ -1,5 +1,14 @@
-bering.repo.dir <-
-function(dirname){
+
+# This is a script to create a drat repository
+# Automated drat directory to include the brave packages
+#
+# The function can be used to create any directory that want to reposit R packages and dependencies
+#
+#' @dirname: name of the directory (in our case is the drat directory)
+#'
+
+
+bering.repo.dir <- function(dirname){
 
 # check existence of the directory dirname and creates if do not exist
 mainDir <- "~"

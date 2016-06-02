@@ -1,25 +1,25 @@
-\name{anRpackage-package}
-\alias{anRpackage-package}
-\alias{anRpackage}
+\name{bering.repo-package}
+\alias{bering.repo-package}
+\alias{bering.repo}
 \docType{package}
 \title{
-\packageTitle{anRpackage}
+\packageTitle{bering.repo}
 }
 \description{
-\packageDescription{anRpackage}
+\packageDescription{bering.repo}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{anRpackage}
-\packageIndices{anRpackage}
+\packageDESCRIPTION{bering.repo}
+\packageIndices{bering.repo}
 ~~ An overview of how to use the package, including the most important ~~
 ~~ functions ~~
 }
 \author{
-\packageAuthor{anRpackage}
+\packageAuthor{bering.repo}
 
-Maintainer: \packageMaintainer{anRpackage}
+Maintainer: \packageMaintainer{bering.repo}
 }
 \references{
 ~~ Literature or other references for background information ~~
