@@ -1,7 +1,7 @@
 # Bering drat Repo
 
 Generate a drat repository which include R packages needed for a software
-Update of the packages is happening monthly
+Need to check for updates
 
 # Getting started - how to use it
 
